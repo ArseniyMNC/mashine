@@ -1,7 +1,7 @@
 # What is it?
 This is my app, where play car sounds.
 # For who?
-For play whith a toy car
+For play whith a toy car.
 #How to get source code?
 App was make with Pocket Code
 1. install Pocket Code from Google Play or App Store
